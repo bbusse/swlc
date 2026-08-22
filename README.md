@@ -1,0 +1,3 @@
+# swlc
+
+stupid wayland client
