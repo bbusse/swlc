@@ -1,6 +1,6 @@
 [package]
 name = "swlc"
-version = "0.0.0-rc0"
+version = "0.0.0-rc1"
 edition = "2021"
 description = "Stupid Wayland client — no external dependencies"
 license = "BSD-3-Clause"
