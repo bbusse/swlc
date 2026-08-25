@@ -1,6 +1,6 @@
 # Maintainer: Björn Busse <bj.rn@baerlin.eu>
 pkgname=swlc
-pkgver=0.1.0
+pkgver=0.0.0
 pkgrel=0
 pkgdesc="Stupid Wayland client - no external dependencies"
 url="https://github.com/bbusse/swlc"
