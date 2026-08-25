@@ -36,7 +36,7 @@ jobs:
       artifact_name: swlc
       binary_name: swlc
       release_branch: ci
-      version_branch: dev
+      version_branch: ci
       # Cargo.toml's own version field tracks release state; no VERSION file.
       cargo_toml_path: Cargo.toml
     secrets: inherit
